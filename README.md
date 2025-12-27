@@ -4,4 +4,4 @@
 
 ## Packages
 
-[VRCOCG](//github.com/AliasQli/VRCOCG)
+[VRCOCG](https://github.com/AliasQli/VRCOCG)
